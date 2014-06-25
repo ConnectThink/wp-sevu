@@ -20,7 +20,22 @@ Switches the "Discourage search engines from indexing this site" option on or of
 2. Active plugin through the 'Plugins' menu in WordPress
 3. Configure plugin options through settings page `Settings -> Reading`
 
+== Frequently Asked Questions ==
+
+= Where do I edit the plugin settings? =
+
+In the WordPress admin panel, navigate to Settings -> Reading. The plugin settings will be appended to this screen.
+
+== Screenshots ==
+
+1. Settings Screen
+
 == Changelog ==
 
 = 1.0.0 =
 * Initial Build
+
+== Upgrade Notice ==
+
+= 1.0.0 =
+Initial Build
