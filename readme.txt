@@ -10,7 +10,7 @@ License URI: http://www.gnu.org/copyleft/gpl.html
 
 == Description ==
 
-Switches the "Discourage search engines from indexing this site" option on or off based on current URL.  This is useful for making sure that your development site is hidden from search engines, while your live site is not.
+Switches the "Discourage search engines from indexing this site" option on or off based on WordPress' current domain.  This is useful for making sure that your development site is hidden from search engines, while your live site is not.
 
 [Get detailed instructions on github](https://github.com/ConnectThink/wp-sevu)
 
