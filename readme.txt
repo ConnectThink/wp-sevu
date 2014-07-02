@@ -1,4 +1,4 @@
- === Search Engine Visibility Updater ===
+=== Search Engine Visibility Updater ===
 Contributors: connectthink
 Tags: search, noindex, privacy, wp-sevu
 Plugin URI: https://github.com/ConnectThink/wp-sevu
