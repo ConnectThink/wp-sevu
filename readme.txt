@@ -1,4 +1,4 @@
-=== Search Engine Visibility Updater ===
+ === Search Engine Visibility Updater ===
 Contributors: connectthink
 Tags: search, noindex, privacy, wp-sevu
 Plugin URI: https://github.com/ConnectThink/wp-sevu
@@ -39,6 +39,9 @@ In the WordPress admin panel, navigate to Settings -> Reading. The plugin settin
 * Initial Build
 
 == Upgrade Notice ==
+
+= 1.0.1 =
+Resolve error in getting current host
 
 = 1.0.0 =
 Initial Build

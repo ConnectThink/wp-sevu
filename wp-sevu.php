@@ -3,7 +3,7 @@
  * Plugin Name: Search Engine Visibility Updater
  * Plugin URI: https://github.com/ConnectThink/wp-sevu
  * Description: Switches the "Discourage search engines from indexing this site" option on or off based on current domain.  This is useful for making sure that your development site is hidden from search engines, while your live site is not.
- * Version: 1.0.0
+ * Version: 1.0.1
  * Author: Connect Think
  * Author URI: http://connectthink.com
  * License: GPLv3
