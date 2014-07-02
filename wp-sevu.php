@@ -73,7 +73,7 @@ function sevu_setting_callback_function() {
 function sevu_privacy() {
     $live_url = get_option( 'sevu_setting_domain' );
     $current_url = parse_url(get_site_url());
-    if( $live_url == $current_url[host] ){
+    if( $live_url == $current_url['host'] ){
         update_option( 'blog_public', '1' );
     }else{
         update_option( 'blog_public', '0' );
