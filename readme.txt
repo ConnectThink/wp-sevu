@@ -3,7 +3,7 @@ Contributors: connectthink
 Tags: search, noindex, privacy, wp-sevu
 Plugin URI: https://github.com/ConnectThink/wp-sevu
 Requires at least: 3.0.1
-Tested up to: 3.9.1
+Tested up to: 4.0
 Stable tag: 1.0.1
 License: GPLv3 or later
 License URI: http://www.gnu.org/copyleft/gpl.html
